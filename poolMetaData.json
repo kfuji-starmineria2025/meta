@@ -1,6 +1,10 @@
 {
-  "name": "StarMineria",
-  "description": "StarMineria Stake Pool",
-  "ticker": "STAR",
-  "homepage": "https://starmineria.com"
+  "674": {
+    "content": {
+      "name": "StarMineria",
+      "description": "StarMineria Stake Pool",
+      "ticker": "STAR",
+      "homepage": "https://starmineria.com"
+    }
+  }
 }
